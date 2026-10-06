@@ -1,4 +1,4 @@
-# Groupe 2 — Projet SQL e-commerce
+# Groupe 2  Projet SQL e-commerce
 
 Ce projet analyse les ventes d'une plateforme e-commerce avec PostgreSQL. Il contient la création des tables, les données fournies et les requêtes des 15 exercices, suivies de trois analyses libres.
 
