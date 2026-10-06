@@ -1,0 +1,15 @@
+# Données locales et secrets : ne jamais publier les licences DbVisualizer.
+*.license
+.env
+.env.*
+!.env.example
+*.log
+resultats*.txt
+*.dump
+*.backup
+pgdata/
+.idea/
+.vscode/
+__pycache__/
+.DS_Store
+Thumbs.db
